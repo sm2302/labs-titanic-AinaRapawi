@@ -1,6 +1,6 @@
 # Titanic Data Analysis
 ## Individual Git Exercise
-* Hashiifah Aina 19b2130 *
+*Hashiifah Aina 19b2130*
 
 This repository has files containing passengers' data from the Titanic which includes:
 - Passenger Id
